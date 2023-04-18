@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.base:RulePackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.base="http://ilog.rules.studio/model/base.ecore">
+  <name>All_TRUE</name>
+  <uuid>30871de0-11ea-47a4-a9f2-36f399688430</uuid>
+</ilog.rules.studio.model.base:RulePackage>
